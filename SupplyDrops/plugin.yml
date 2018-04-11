@@ -1,0 +1,6 @@
+name: SupplyDrops
+version: 1.0.0
+main: me.therealjeremy.sd.Main
+author: TheRealJeremy
+commands:
+  giveflare:
